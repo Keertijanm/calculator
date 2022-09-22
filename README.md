@@ -7,8 +7,8 @@ This project  created with [ reactJs ](https://studenternollmentform.vercel.app/
 
 ### Deployment
 
-You can see  it's Deployment here: []()
+You can see  it's Deployment here: [https://calculator-m55t.vercel.app/](https://calculator-m55t.vercel.app/)
 
-##OUTPUT
+## OUTPUT
 ![image](https://github.com/Keertijanm/calculator/blob/main/task4out1.JPG)
 ![image](https://github.com/Keertijanm/calculator/blob/main/task4out2.JPG)
